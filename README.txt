@@ -8,3 +8,5 @@
 - 📫 How to reach me: Only write me, no problem!
 - 😄 Pronouns: He
 - ⚡ Fun fact: I paid for the office package
+
+LO LOGRÉEEEEEEEEEEEEEE
