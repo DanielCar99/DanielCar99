@@ -9,4 +9,3 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: I paid for the office package
 
-LO LOGRÉEEEEEEEEEEEEEE
