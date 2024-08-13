@@ -1,10 +1,5 @@
-import sys
-import io
 from roboticstoolbox import *
 import math
-
-# Establecer la codificación a utf-8
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 l1 = 12
 l2 = 14
@@ -23,5 +18,7 @@ print(Robot)
 
 Robot.teach([q1, q2], limits=[-30,30,-30,30,-30,30])
 
-MTH = Robot.fkine([q1, q2])
+#zlim([-15,30]);
+
+MTH = Robot.fkine([q1,q2])
 print(MTH)
